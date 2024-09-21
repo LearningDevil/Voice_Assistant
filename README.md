@@ -17,3 +17,16 @@ This project is a simple voice-controlled assistant, named "Jarvis", which can p
 - Python 3.6 or later
 - Git (if cloning the repository)
 - [newsapi.org](https://newsapi.org) API key (if you want to integrate news fetching)
+
+## Execution
+
+#### Install the required dependencies by running:
+pip install -r requirements.txt'
+
+### Commands:
+"Jarvis": Activates the assistant to take further commands.
+"Play {song}": Plays a song on YouTube, e.g., "Play Shape of You."
+"Activate": Starts the AI mode for conversations.
+"Exit": Deactivates the AI mode.
+
+
