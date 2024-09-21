@@ -24,9 +24,9 @@ This project is a simple voice-controlled assistant, named "Jarvis", which can p
 pip install -r requirements.txt'
 
 ### Commands:
-"Jarvis": Activates the assistant to take further commands.
-"Play {song}": Plays a song on YouTube, e.g., "Play Shape of You."
-"Activate": Starts the AI mode for conversations.
-"Exit": Deactivates the AI mode.
+- "Jarvis": Activates the assistant to take further commands.
+- "Play {song}": Plays a song on YouTube, e.g., "Play Shape of You."
+- "Activate": Starts the AI mode for conversations.
+- "Exit": Deactivates the AI mode.
 
 
